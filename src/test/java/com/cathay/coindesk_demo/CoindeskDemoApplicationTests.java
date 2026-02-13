@@ -1,0 +1,11 @@
+package com.cathay.coindesk_demo;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class CoindeskDemoApplicationTests {
+
+
+
+}
